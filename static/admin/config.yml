@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: letsgowithme/portfolio-gatsby.git
+  repo: portfolio-gatsby.git
   commit_messages:
     create: "Create {{collection}} “{{slug}}”"
     update: "Update {{collection}} “{{slug}}”"
